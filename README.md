@@ -55,8 +55,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
----
-
 ## 🛡️ Cybersecurity Skills
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-%23F15A29.svg?style=for-the-badge&logo=penetration-testing&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-%23FBAF03.svg?style=for-the-badge&logo=vulnerability&logoColor=white)

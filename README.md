@@ -78,9 +78,9 @@
 - 🛠️ **Cybersecurity Intern** at the Ministry of Post and Telecommunications, Summer 2024
 - 🧑‍💻 **EC-Council Ethical Hacking** Course, Fall 2023
 
-
+<!--
 ## 🔗 Connect With Me
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rattnak&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rattnak&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> 
 <p>
   <a href="https://www.linkedin.com/in/mongchanrattnak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -90,4 +90,4 @@
   </a>
 
 ## 📈 GitHub Stats
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rattnak&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rattnak&theme=radical" />-->

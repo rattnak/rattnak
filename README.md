@@ -66,7 +66,7 @@
 ![Bash](https://img.shields.io/badge/Bash-%23F44F1D.svg?style=for-the-badge&logo=bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
   
-### **Key Achievements**:
+### **Cybsecurity Achievements**:
 - 📚 **Google Cybersecurity Certification Program**, Ongoing
 - 🏆 **NCAE Cyber Games 2025(West Region)**
 - 🛠️ **Cybersecurity Intern** at the Ministry of Post and Telecommunications, Summer 2024

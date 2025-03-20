@@ -25,7 +25,6 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Standard ML](https://img.shields.io/badge/SML-%23E44D26.svg?style=for-the-badge&logo=smllogo&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%232083c6.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230075a4.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🌐 Web Development
@@ -39,7 +38,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Eclipse Java](https://img.shields.io/badge/Eclipse_Java-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009E60.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📱 Mobile Development
@@ -56,39 +55,39 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+---
 
-
-## 💻 **Cybersecurity Skills**
-<img src="https://img.shields.io/badge/Penetration_Testing-%23B84591.svg?style=for-the-badge&logo=penetration-testing&logoColor=white" /> <img src="https://img.shields.io/badge/Vulnerability_Assessment-%23FF6F61.svg?style=for-the-badge&logo=vulnerability&logoColor=white" /> <img src="https://img.shields.io/badge/CTF-%2328465C.svg?style=for-the-badge&logo=gamepad&logoColor=white" />
-
+## 🛡️ Cybersecurity Skills
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-%23F15A29.svg?style=for-the-badge&logo=penetration-testing&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-%23FBAF03.svg?style=for-the-badge&logo=vulnerability&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF-%232F73D8.svg?style=for-the-badge&logo=gamepad&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23D43F00.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23A4C300.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%2300A6A6.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23FF6600.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-%23B1B4BB.svg?style=for-the-badge&logo=john-the-ripper&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-%2300537B.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-%232F84A3.svg?style=for-the-badge&logo=siem&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-%23A1432A.svg?style=for-the-badge&logo=searchengin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23F44F1D.svg?style=for-the-badge&logo=bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
+  
 ### **Key Achievements**:
 - 📚 **Google Cybersecurity Certification Program**, Ongoing
 - 🏆 **NCAE Cyber Games 2025(West Region)**
 - 🛠️ **Cybersecurity Intern** at the Ministry of Post and Telecommunications, Summer 2024
 - 🧑‍💻 **EC-Council Ethical Hacking** Course, Fall 2023
 
-### **Tools & Technologies**:
-- 🔴 **Red Team**: Metasploit, Burp Suite, Wireshark, Nmap, John the Ripper
-- 🔵 **Blue Team**: Splunk, SIEM, OSINT, Threat Intelligence
-- ⚙️ **Scripting & Automation**: Bash, Python (Scapy, Pwntools)
-
-
 
 ## 🔗 Connect With Me
-<p align="center">
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rattnak&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> -->
+<p>
   <a href="https://www.linkedin.com/in/mongchanrattnak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/rattnak.mong" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:mongchanrattnak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ## 📈 GitHub Stats
-<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rattnak&theme=radical" />
-</p>
-

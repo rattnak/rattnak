@@ -3,8 +3,6 @@
 👩🏻‍💻 Software Engineer | Cybersecurity Enthusiast  <br/>
 👩🏻‍🎓 Senior in Computer Science at [Fort Hays State University](https://www.fhsu.edu/), United States
 
----
-
 ## 🚀 About Me
 - 🔭 Exploring **Security Engineering & Scalable Software Solutions**
 - 🌱 Currently learning **Rust, Dart, and Flutter**
@@ -12,7 +10,6 @@
 - 💬 Ask me about **Software Development and Innovative Systems**
 - 📫 Reach me at **mongchanrattnak@gmail.com**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +56,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
----
+
 
 ## 💻 **Cybersecurity Skills**
 <img src="https://img.shields.io/badge/Penetration_Testing-%23B84591.svg?style=for-the-badge&logo=penetration-testing&logoColor=white" /> <img src="https://img.shields.io/badge/Vulnerability_Assessment-%23FF6F61.svg?style=for-the-badge&logo=vulnerability&logoColor=white" /> <img src="https://img.shields.io/badge/CTF-%2328465C.svg?style=for-the-badge&logo=gamepad&logoColor=white" />
@@ -75,7 +72,7 @@
 - 🔵 **Blue Team**: Splunk, SIEM, OSINT, Threat Intelligence
 - ⚙️ **Scripting & Automation**: Bash, Python (Scapy, Pwntools)
 
----
+
 
 ## 🔗 Connect With Me
 <p align="center">

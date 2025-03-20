@@ -4,9 +4,9 @@
 👩🏻‍🎓 Senior in Computer Science at [Fort Hays State University](https://www.fhsu.edu/), United States
 
 ## 🚀 About Me
-- 🔭 Exploring **Security Engineering & Scalable Software Solutions**
-- 🌱 Currently learning **Rust, Dart, and Flutter**
-- 💡 Passionate about **Open Source, Startups, and Building Impactful Software**
+- 🌱 Currently learning **Rust and Dart**
+- 💡 Passionate about **Open Source and Building Impactful Software**
+- 👩🏻‍💻 Aspiring to be a **Top-Tier Software Engineer**
 - 💬 Ask me about **Software Development and Innovative Systems**
 - 📫 Reach me at **mongchanrattnak@gmail.com**
 

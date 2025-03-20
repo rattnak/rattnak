@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Chanrattnak(Nak) Mong!
 👩🏻‍💻 Software Engineer | Cybersecurity Enthusiast  <br/>
 👩🏻‍🎓 Senior in Computer Science at [Fort Hays State University](https://www.fhsu.edu/), United States  <br/>
-💻 Certified Full-Stack Software Engineer by [Qwasar Sillicon Valley](https://www.qwasar.io/)  <br/>
+💻 Certified Fullstack Engineer by [Qwasar Sillicon Valley](https://www.qwasar.io/)  <br/>
 🤝 Connect with me on: [LinkedIn](https://www.linkedin.com/in/mongchanrattnak/) 
 
 ## 🚀 About Me

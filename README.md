@@ -4,7 +4,7 @@
 👩🏻‍🎓 Senior in Computer Science at [Fort Hays State University](https://www.fhsu.edu/), United States
 
 ## 🚀 About Me
-- 🌱 Currently learning **Rust and Dart**
+- 🌱 Currently learning **Rust, Dart, and Flutter**
 - 💡 Passionate about **Open Source and Building Impactful Software**
 - 👩🏻‍💻 Aspiring to be a **Top-Tier Software Engineer**
 - 💬 Ask me about **Software Development and Innovative Systems**

@@ -61,61 +61,37 @@
 
 ---
 
-## 🔒 **Cybersecurity Expertise**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Privilege_Escalation-%23FF6F61.svg?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-%2300A6A6.svg?style=for-the-badge&logo=searchengin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_Automation-%2300B5A5.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-%23B84591.svg?style=for-the-badge&logo=penetration-testing&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability_Assessment-%23FF6F61.svg?style=for-the-badge&logo=vulnerability&logoColor=white" />
-  <img src="https://img.shields.io/badge/NCAE_Cyber_Game_2025-%2328465C.svg?style=for-the-badge&logo=gamepad&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF-%23A19DAB.svg?style=for-the-badge&logo=flag&logoColor=white" />
-</p>
+## 💻 **Cybersecurity Skills**
+<img src="https://img.shields.io/badge/Penetration_Testing-%23B84591.svg?style=for-the-badge&logo=penetration-testing&logoColor=white" /> <img src="https://img.shields.io/badge/Vulnerability_Assessment-%23FF6F61.svg?style=for-the-badge&logo=vulnerability&logoColor=white" /> <img src="https://img.shields.io/badge/CTF-%2328465C.svg?style=for-the-badge&logo=gamepad&logoColor=white" />
 
 ### **Key Achievements**:
-- 🛠️ **Privilege Escalation** in both Linux & Windows environments.
-- 🕵️‍♂️ **OSINT Techniques** to gather sensitive information and reconnaissance.
-- 🤖 **Automated Security Tools & Exploits** using Python (Scapy, Pwntools).
-- 🧪 **Ethical Hacking**: Penetration testing, vulnerability assessments, and system exploitation.
-- 🏆 **Competed in NCAE Cyber Game 2025 (West Region)** to solve various CTF challenges, covering:
-    - **Security Operations**
-    - **Network Steganography**
-    - **Trivia**
-    - **OSINT**
-    - **Networking**
-    - **Cryptography**
-    - **Exploitation**
-    - **Binary Exploitation**
-    - **Programming**
-- 💻 **CTF Practice**: Practiced on picoCTF, solving **web exploitation**, **binary analysis**, and **cryptography** challenges.
+- 📚 **Google Cybersecurity Certification Program**, Ongoing
+- 🏆 **NCAE Cyber Games 2025(West Region)**
+- 🛠️ **Cybersecurity Intern** at the Ministry of Post and Telecommunications, Summer 2024
+- 🧑‍💻 **EC-Council Ethical Hacking** Course, Fall 2023
 
----
-
-**Tools & Technologies**:
+### **Tools & Technologies**:
 - 🔴 **Red Team**: Metasploit, Burp Suite, Wireshark, Nmap, John the Ripper
 - 🔵 **Blue Team**: Splunk, SIEM, OSINT, Threat Intelligence
-- ⚙️ **Scripting & Automation**: Bash, Python (Scapy, pwntools)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rattnak&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rattnak&theme=radical" />
-</p>
+- ⚙️ **Scripting & Automation**: Bash, Python (Scapy, Pwntools)
 
 ---
 
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mongchanrattnak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-   <a href="https://www.facebook.com/rattnak.mong" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">
+  <a href="https://www.facebook.com/rattnak.mong" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:mongchanrattnak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+## 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rattnak&theme=radical" />
+</p>
+

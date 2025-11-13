@@ -1,97 +1,37 @@
 
-# 👋 Hi, I'm Chanrattnak(Nak) Mong!
-👩🏻‍💻 Software Engineer | Cybersecurity Enthusiast  <br/>
+# Chanrattnak(Nak) Mong
+👩🏻‍💻 Product-focused Software Engineer <br/>
 👩🏻‍🎓 Senior in Computer Science at [Fort Hays State University](https://www.fhsu.edu/), United States  <br/>
 💻 Certified Fullstack Engineer by [Qwasar Sillicon Valley](https://www.qwasar.io/)  <br/>
 
-## 🚀 About Me
-- 🌱 Currently learning **Rust, Dart, and Flutter**
-- 💡 Passionate about **Open Source and Building Impactful Software**
-- 👩🏻‍💻 Aspiring to be a **Top-Tier Software Engineer**
-- 💬 Ask me about **Software Development and Innovative Systems**
-- 📫 Reach me at **mongchanrattnak@gmail.com**
+💡 [Portfolio](https://rattnak.com/)
 
-## 🤝 Connect with me:
+### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mongchanrattnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mongchanrattnak" height="30" width="40" /></a>
-<a href="https://fb.com/rattnak.mong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rattnak.mong" height="30" width="40" /></a>
-<a href="https://instagram.com/rattnak.mong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rattnak.mong" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mongchanrattnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mongchanrattnak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mongchanrattnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mongchanrattnak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rattnak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rattnak" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mongchanrattnak" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/c/mongchanrattnak" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="32" />
+  </a>
 </p>
 
-## 🛠️ Tech Stack
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rattnak&layout=compact&theme=radical) -->
 
-### 🖥️ Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Standard ML](https://img.shields.io/badge/SML-%23E44D26.svg?style=for-the-badge&logo=smllogo&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230075a4.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+#### 🛠️ Programming Languages
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="32"/> </p>
 
-### 🌐 Full-Stack Development
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Eclipse Java](https://img.shields.io/badge/Eclipse_Java-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009E60.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+#### 🌐 Full-Stack Development
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/> <!-- React Native uses same icon --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32"/> <img src="https://nestjs.com/img/logo-small.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/> </p>
+
+#### 🗄️ Databases & Cloud Infrastructure
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="32"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="32" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32"/><img src="https://cdn.simpleicons.org/snowflake" width="32" />
+
+#### 🚀 DevOps, Tools & Product
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="32"/> </p>
 
 ### 📱 ☁️ 🤖 Cross-Disciplinary Expertise
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/>
 
 ## 🛡️ Cybersecurity Skills
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-%23F15A29.svg?style=for-the-badge&logo=penetration-testing&logoColor=white)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-%23FBAF03.svg?style=for-the-badge&logo=vulnerability&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF-%232F73D8.svg?style=for-the-badge&logo=gamepad&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23D43F00.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23A4C300.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%2300A6A6.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%23FF6600.svg?style=for-the-badge&logo=nmap&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-%23B1B4BB.svg?style=for-the-badge&logo=john-the-ripper&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-%2300537B.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-%232F84A3.svg?style=for-the-badge&logo=siem&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-%23A1432A.svg?style=for-the-badge&logo=searchengin&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23F44F1D.svg?style=for-the-badge&logo=bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<!--
-### **Key Achievements**:
-- 📚 **Google Cybersecurity Certification Program**, Ongoing
-- 🏆 **NCAE Cyber Games 2025(West Region)**
-- 🛠️ **Cybersecurity Intern** at the Ministry of Post and Telecommunications, Summer 2024
-- 🧑‍💻 **EC-Council Ethical Hacking** Course, Fall 2023 -->
-
-<!--
-## 🔗 Connect With Me
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rattnak&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> 
-<p>
-  <a href="https://www.linkedin.com/in/mongchanrattnak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/rattnak.mong" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-
-## 📈 GitHub Stats
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rattnak&theme=radical" />-->
+Picus, Attack Simulation • Ubuntu/Windows VM Ops • Data security pipelines • OSINT

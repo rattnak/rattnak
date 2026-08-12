@@ -1,7 +1,7 @@
 
 # Chanrattnak(Nak) Mong
 👩🏻‍💻 Product-focused Software Engineer <br/>
-👩🏻‍🎓 Senior in Computer Science at [Fort Hays State University](https://www.fhsu.edu/), United States  <br/>
+👩🏻‍🎓 BSc in Computer Science at [Fort Hays State University](https://www.fhsu.edu/), United States  <br/>
 💻 Certified Fullstack Engineer by [Qwasar Sillicon Valley](https://www.qwasar.io/)  <br/>
 
 💡 [Portfolio](https://rattnak.com/)
